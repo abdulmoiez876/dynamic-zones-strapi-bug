@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_templates_template_1s",
+  "info": {
+    "displayName": "Template 1",
+    "icon": "folder",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "heroSectionT1": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.hero-section-v1",
+      "required": true
+    }
+  }
+}

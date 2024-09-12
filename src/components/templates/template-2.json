@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_templates_template_2s",
+  "info": {
+    "displayName": "Template 2",
+    "icon": "folder"
+  },
+  "options": {},
+  "attributes": {
+    "heroSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.hero-section-v2",
+      "required": true
+    }
+  }
+}

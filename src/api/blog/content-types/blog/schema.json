@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blogs",
+  "info": {
+    "singularName": "blog",
+    "pluralName": "blogs",
+    "displayName": "blog",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "string",
+      "required": true
+    },
+    "template": {
+      "type": "dynamiczone",
+      "components": [
+        "templates.template-1",
+        "templates.template-2"
+      ],
+      "required": true,
+      "min": 1,
+      "max": 1
+    }
+  }
+}

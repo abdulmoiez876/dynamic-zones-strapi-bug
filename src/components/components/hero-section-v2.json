@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_components_hero_section_v2s",
+  "info": {
+    "displayName": "Hero Section V2",
+    "icon": "folder"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
